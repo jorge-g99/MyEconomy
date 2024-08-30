@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base color -->
+    <color name="colorPrimary">#6A0D91</color> <!-- Medium Purple -->
+
+    <!-- Lighter shades of the base color -->
+    <color name="colorPrimaryLight">#8A2B6D</color> <!-- Light Purple -->
+    <color name="colorPrimaryLighter">#D7A4D5</color> <!-- Very Light Lilac -->
+
+    <!-- Darker shades of the base color -->
+    <color name="colorPrimaryDark">#4B0082</color> <!-- Dark Purple -->
+
+    <!-- Additional colors -->
+    <color name="colorWhite">#FFFFFF</color> <!-- White for backgrounds and text -->
+    <color name="colorGray">#B0B0B0</color> <!-- Gray for less emphasized elements -->
+    <color name="colorBlack">#000000</color> <!-- Black for text and contrasts -->
+</resources>
